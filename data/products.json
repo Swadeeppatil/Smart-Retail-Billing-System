@@ -1,0 +1,57 @@
+[
+  {
+    "product_id": "PRD-d6d85753",
+    "name": "milk",
+    "category": "grocery",
+    "cost_price": 25.0,
+    "selling_price": 30.0,
+    "stock_quantity": 89,
+    "barcode": "56781B08523D",
+    "created_at": "2026-02-27T12:22:56.809296",
+    "updated_at": "2026-02-27T13:09:06.244627"
+  },
+  {
+    "product_id": "PRD-42532f88",
+    "name": "Wter Bottle",
+    "category": "Water",
+    "cost_price": 12.0,
+    "selling_price": 20.0,
+    "stock_quantity": 44,
+    "barcode": "E18A69280901",
+    "created_at": "2026-02-27T12:36:09.951126",
+    "updated_at": "2026-02-27T13:09:06.270725"
+  },
+  {
+    "product_id": "PRD-21085f71",
+    "name": "icercream",
+    "category": "cold",
+    "cost_price": 10.0,
+    "selling_price": 25.0,
+    "stock_quantity": 12,
+    "barcode": "4E1D94550C3C",
+    "created_at": "2026-02-27T12:47:13.585058",
+    "updated_at": "2026-02-27T20:39:36.339788"
+  },
+  {
+    "product_id": "PRD-81ec645f",
+    "name": "cold drink",
+    "category": "cold",
+    "cost_price": 25.0,
+    "selling_price": 40.0,
+    "stock_quantity": 20,
+    "barcode": "8F50AEF60F46",
+    "created_at": "2026-02-27T20:37:02.178175",
+    "updated_at": "2026-02-27T20:37:02.178175"
+  },
+  {
+    "product_id": "PRD-d7e6806b",
+    "name": "Bottle",
+    "category": "bottle",
+    "cost_price": 20.0,
+    "selling_price": 25.0,
+    "stock_quantity": 12,
+    "barcode": "31C75C97FB88",
+    "created_at": "2026-03-05T15:21:20.426828",
+    "updated_at": "2026-03-05T15:21:20.426828"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "customer_id": "CUST-262f7e",
+    "name": "Rajesh Kumar",
+    "phone": "9876543210",
+    "email": "rajesh@example.com",
+    "loyalty_points": 0.0,
+    "total_purchases": 0.0,
+    "created_at": "2026-02-27T12:11:48.324197"
+  },
+  {
+    "customer_id": "CUST-c1b7b6",
+    "name": "Priya Singh",
+    "phone": "9876543211",
+    "email": "priya@example.com",
+    "loyalty_points": 0.0,
+    "total_purchases": 0.0,
+    "created_at": "2026-02-27T12:11:48.325937"
+  }
+]
