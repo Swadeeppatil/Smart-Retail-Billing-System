@@ -2,6 +2,10 @@
 
 A comprehensive, advanced GUI-based retail billing and inventory management system built with Python. Completely offline with local data storage (JSON/CSV based).
 
+
+https://github.com/user-attachments/assets/4f942efb-b2fb-46e0-b38d-a6a86cba742d
+
+
 ## 🎯 Features
 
 ### Core Features
